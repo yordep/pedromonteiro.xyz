@@ -1,4 +1,4 @@
-# yordep.github.io
+# http://yordep.github.io
 My personal website 
 echo "# yordep.github.io" >> README.md
 git init
