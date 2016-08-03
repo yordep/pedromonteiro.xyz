@@ -1,4 +1,4 @@
-dig www.example.com +nostats +nocomments +nocmd
+$ dig www.pedromonteiro.xyz +nostats +nocomments +nocmd
 ;www.pedromonteiro.xyz.                     IN      A
 www.example.com.              3592    IN      CNAME   yordep.github.io.
 yordep.github.io.           43192   IN      CNAME  < GITHUB-PAGES-SERVER >.
