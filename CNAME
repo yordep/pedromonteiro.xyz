@@ -1,0 +1,5 @@
+dig www.example.com +nostats +nocomments +nocmd
+;www.pedromonteiro.xyz.                     IN      A
+www.example.com.              3592    IN      CNAME   yordep.github.io.
+yordep.github.io.           43192   IN      CNAME  < GITHUB-PAGES-SERVER >.
+< GITHUB-PAGES-SERVER >.        22      IN      A       199.27.XX.XXX
